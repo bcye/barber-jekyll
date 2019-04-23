@@ -29,9 +29,9 @@ buttondown_id: bruceroet
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Bruce Roettgers
+    bio: Hi, I'm the maker of this page, and am blogging about my journey as an indie maker.
+    url: https://bruceroettgers.me
 
 # Pagination settings
 pagination:
