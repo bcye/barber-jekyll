@@ -1,14 +1,12 @@
-<form method="POST" action="{{ site.mailchimp_action }}&amp;c=?" id="mc-signup" name="mc-embedded-subscribe-form" novalidate>
+<form method="POST" action="https://buttondown.email/api/emails/embed-subscribe/{{ site.buttondown_id }}" target="popupwindow" name="mc-embedded-subscribe-form" class="embeddable-buttondown-form" novalidate>
   <!-- This is required for the form to work correctly -->
-  <div style="position: absolute; left: -5000px;" aria-hidden="true">
-    <input type="text" name="{{ site.mailchimp_input }}" tabindex="-1" value="">
-  </div>
 
   <div class="form-group">
-    <input id="mce-EMAIL" type="email" name="EMAIL" placeholder="Email Address">
+    <input id="bd-email" type="email" name="email" placeholder="Email Address">
   </div>
+  <input type="hidden" value="1" name="embed"/>
   <div class="form__btn">
-    <input id="mc-submit" type="submit" value="Sign Up" name="subscribe">
+    <input type="submit" value="Sign Up" name="subscribe">
   </div>
 </form>
 
