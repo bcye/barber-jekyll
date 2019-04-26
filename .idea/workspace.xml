@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7598b5f6-a6f7-4a8c-ace9-ded4f6ba619f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bruce-roettgers.ghost.2019-04-23-01-58-54.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/inline/Screenshot-2019-04-13-at-10.14.09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/inline/Screenshot-2019-04-13-at-10.16.53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/inline/Screenshot-2019-04-13-at-10.19.38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/inline/Screenshot-2019-04-13-at-10.22.36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/inline/Screenshot-2019-04-13-at-10.26.28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/inline/promotional.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/preview/photo-1477949331575-2763034b5fb5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/preview/photo-1486383670832-7951bf5a4ca4.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-09-lumbersexual.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-10-disrupt-raw-denim.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-11-unicorn-echo-park.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-12-butcher-vaporware-keytar.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-13-single-origin-coffee.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-14-snackwave.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-15-craft-beer-listicle.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-16-beard.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-17-taxidermy-dreamcatcher-readymade.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-18-blue-bottle.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-19-waistcoat-tote-bag-pickled.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-20-roof-party.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-21-flannel-distillery-asymmetrical.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-22-coloring-book.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-23-polaroid-williamsburg.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-08-brunch-swag.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-13-i-got-20k-pageviews-with-my-product-launch-its-not-because-of-any-big-tactics.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-13-i-got-20k-pageviews-with-my-product-launch-its-not-because-of-any-big-tactics.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-22-get-free-server-credits-and-development-tools-for-real.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-22-get-free-server-credits-and-development-tools-for-real.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,12 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-22-get-free-server-credits-and-development-tools-for-real.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+              <first_editor relative-caret-position="334">
+                <caret line="121" column="35" lean-forward="true" selection-start-line="121" selection-end-line="122" />
               </first_editor>
               <second_editor />
             </state>
@@ -44,20 +40,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-13-i-got-20k-pageviews-with-my-product-launch-its-not-because-of-any-big-tactics.markdown">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="69">
+                <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-08-brunch-swag.markdown">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-13-i-got-20k-pageviews-with-my-product-launch-its-not-because-of-any-big-tactics.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="332">
+                <caret line="83" selection-start-line="83" selection-end-line="83" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -80,19 +80,23 @@
         <option value="$PROJECT_DIR$/_includes/pagination.html" />
         <option value="$PROJECT_DIR$/_includes/navigation.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_includes/subscribe-form.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-22-get-free-server-credits-and-development-tools-for-real.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-13-i-got-20k-pageviews-with-my-product-launch-its-not-because-of-any-big-tactics.markdown" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -117,6 +121,24 @@
               <item name="barber-jekyll" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="barber-jekyll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="barber-jekyll" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="barber-jekyll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="barber-jekyll" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="barber-jekyll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="barber-jekyll" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="inline" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -137,6 +159,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/inline" />
+      <recent name="$PROJECT_DIR$/assets/images/preview" />
+      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -174,15 +199,17 @@
       <workItem from="1555974022151" duration="465000" />
       <workItem from="1555975027235" duration="3592000" />
       <workItem from="1556063611899" duration="47000" />
-      <workItem from="1556080899719" duration="84000" />
+      <workItem from="1556080899719" duration="378000" />
+      <workItem from="1556241550917" duration="181000" />
+      <workItem from="1556244408959" duration="1919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6520000" />
+    <option name="totallyTimeSpent" value="8914000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="1" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
@@ -192,7 +219,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23394994" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42002177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -220,9 +247,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/placeholder-27.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/formcarry.html" />
@@ -298,16 +322,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -350,14 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-13-i-got-20k-pageviews-with-my-product-launch-its-not-because-of-any-big-tactics.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-08-brunch-swag.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -366,11 +372,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/preview/photo-1486383670832-7951bf5a4ca4.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="69">
+            <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/inline/Screenshot-2019-04-13-at-10.16.53.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/inline/Screenshot-2019-04-13-at-10.22.36.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-22-get-free-server-credits-and-development-tools-for-real.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <first_editor relative-caret-position="334">
+            <caret line="121" column="35" lean-forward="true" selection-start-line="121" selection-end-line="122" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-13-i-got-20k-pageviews-with-my-product-launch-its-not-because-of-any-big-tactics.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="332">
+            <caret line="83" selection-start-line="83" selection-end-line="83" />
           </first_editor>
           <second_editor />
         </state>
