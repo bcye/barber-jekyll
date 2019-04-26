@@ -2,19 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7598b5f6-a6f7-4a8c-ace9-ded4f6ba619f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/inline/Screenshot-2019-04-13-at-10.14.09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/inline/Screenshot-2019-04-13-at-10.16.53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/inline/Screenshot-2019-04-13-at-10.19.38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/inline/Screenshot-2019-04-13-at-10.22.36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/inline/Screenshot-2019-04-13-at-10.26.28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/inline/promotional.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/preview/photo-1477949331575-2763034b5fb5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/preview/photo-1486383670832-7951bf5a4ca4.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-08-brunch-swag.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-13-i-got-20k-pageviews-with-my-product-launch-its-not-because-of-any-big-tactics.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-13-i-got-20k-pageviews-with-my-product-launch-its-not-because-of-any-big-tactics.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-22-get-free-server-credits-and-development-tools-for-real.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-22-get-free-server-credits-and-development-tools-for-real.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/seo.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,44 +44,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-22-get-free-server-credits-and-development-tools-for-real.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="334">
-                <caret line="121" column="35" lean-forward="true" selection-start-line="121" selection-end-line="122" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="69">
-                <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-13-i-got-20k-pageviews-with-my-product-launch-its-not-because-of-any-big-tactics.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="332">
-                <caret line="83" selection-start-line="83" selection-end-line="83" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -132,13 +113,6 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="barber-jekyll" type="b2602c69:ProjectViewProjectNode" />
-              <item name="barber-jekyll" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="inline" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -201,16 +175,15 @@
       <workItem from="1556063611899" duration="47000" />
       <workItem from="1556080899719" duration="378000" />
       <workItem from="1556241550917" duration="181000" />
-      <workItem from="1556244408959" duration="1919000" />
+      <workItem from="1556244408959" duration="2176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8914000" />
+    <option name="totallyTimeSpent" value="9171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -219,7 +192,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42002177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42002177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
