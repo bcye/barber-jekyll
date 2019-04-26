@@ -2,9 +2,6 @@
 email: br.apps@icloud.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-# Link to your fathom analytics dashboard without http(s):// prepended
-fathom_analytics_dashboard: brme-fathom-analytics.herokuapp.com
-fathom_analytics_site_id: VEQHR
 
 name: Bruce Roettgers
 title: Bruce Roettgers
